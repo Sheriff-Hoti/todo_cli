@@ -8,5 +8,6 @@
 # To start the project
 
 1. Clone the repo
-2. Run `go build main.go`
-3. Try the commands
+2. Run `go build tasks.go`
+3. Try `./tasks list`
+3. Also try the other commands
